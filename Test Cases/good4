@@ -1,0 +1,14 @@
+l = "l";
+println "hello world" - l;
+
+msg = "hello world";
+print msg + "\n";
+msg = msg - l;
+print msg + "\n";
+msg = msg - l;
+print msg + "\n";
+msg = msg - l;
+print msg + "\n";
+msg = msg - l;
+print msg + "\n";
+println "ok, bye";

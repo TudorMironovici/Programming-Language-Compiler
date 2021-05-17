@@ -1,0 +1,3 @@
+x = "yes";
+
+repeat x begin println "nevah!" end ;

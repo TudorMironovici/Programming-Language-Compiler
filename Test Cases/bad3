@@ -1,0 +1,7 @@
+x = "init"
+
+// and this "comment
+// but still ok
+;
+
+print init / 5;

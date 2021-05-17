@@ -1,0 +1,7 @@
+print x = 100;
+println x;
+repeat x begin x = x - 10 end;
+println x;
+
+print 3*x*x + 2*x + 7;
+print "\n";

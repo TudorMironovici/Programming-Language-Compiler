@@ -1,0 +1,2 @@
+inst3 = "oboe";
+repeat 10 begin "break the oboe" end;

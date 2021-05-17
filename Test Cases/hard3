@@ -1,0 +1,4 @@
+tree = "Watch out for that ";
+t = "treeeeeeeee!";
+
+print tree + t - t + "\n";

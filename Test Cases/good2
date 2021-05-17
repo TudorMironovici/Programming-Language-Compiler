@@ -1,0 +1,4 @@
+x = 5;
+println 3 * x + 7;
+println 3 * ( x + 7 );
+println (((5)));
